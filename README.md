@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @systemsintegrator but you can call me Dan.
 - 👀 I’m interested in python integrations for AI applications.
-- 🌱 I’m a student of [Dr. Vincent Granville](https://mltechniques.com/author/)and have a background in number and systems theory.
+- 🌱 I’m a student of [Dr. Vincent Granville](https://mltechniques.com/author/)
+- ⚡ I have a background in Number and System Theory.
 - 💞️ I’m looking to collaborate on webinar hosting and community building.
 - 📫 I founded Info Science AI LLC in 2023. You reach me at: dan@infoscience.ai 
 - 😄 Pronouns: Nerd
