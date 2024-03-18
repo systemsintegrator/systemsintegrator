@@ -4,7 +4,7 @@
 - ⭐ I have a background in Number and System Theory. I used to use Perl for that.
 - 💞️ I’m looking to collaborate on webinar hosting and community building.
 - 💾 I founded Info Science AI LLC in 2023. You reach me at: dan@infoscience.ai 
-- 🖥️ I spent 18 years as a digital forensic specialist and device hacker.
+- 🖥️ I spent 18 years as a digital forensic specialist, device hacker, and Techology Advisor.
 - ⚡ Fun fact: I started with BASIC in 1984 at age 6.
 
 <!---
